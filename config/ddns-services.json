@@ -1,0 +1,158 @@
+{
+  "1984.is": { 
+    "protocol" : "1984",
+    "server" : "api.1984.is",
+    "uri": "https://www.1984.is/product/freedns/"
+  },
+  "ChangeIP": { 
+    "protocol": "changeip",
+    "server": "nic.changeip.com",
+    "uri": "http://www.changeip.com/"
+  },
+  "ClouDNS": {
+    "protocol" : "cloudns",
+    "server": "",
+    "uri": "https://www.cloudns.net/"
+  },
+  "CloudFlare": {
+    "protocol" : "cloudflare",
+    "server": "api.cloudflare.com/client/v4",
+    "uri": "https://www.cloudflare.com/"
+  },
+  "DigitalOcean": {
+    "protocol" : "digitalocean",
+    "server": "api.digitalocean.com",
+    "uri": "https://www.digitalocean.com/"
+  },
+  "dinahosting": {
+    "protocol" : "dinahosting",
+    "server": "dinahosting.com",
+    "uri": "https://dinahosting.com/"
+  },
+  "domenehsop": {
+    "protocol" : "domeneshop",
+    "server": "api.domeneshop.no",
+    "uri": "https://api.domeneshop.no/docs/#tag/ddns/"
+  },
+  "DonDominio": {
+    "protocol" : "dondominio",
+    "server": "dondns.dondominio.com",
+    "uri": "ttps://www.dondominio.com/"
+  },
+  "DslReports": {
+    "protocol" : "dslreports1",
+    "server": "dslreports.com",
+    "uri": "http://www.dslreports.com/"
+  },
+  "Duckdns": {
+    "protocol" : "duckdns",
+    "server": "duckdns.org",
+    "uri": "https://duckdns.org/"
+  },
+  "DynDNS.com": {
+    "protocol" : "dyndns2",
+    "server": "",
+    "uri": "http://www.dyndns.com/"
+  },
+  "DNS Made Easy": {
+    "protocol" : "dnsmadeeasy",
+    "server": "",
+    "uri": "https://dnsmadeeasy.com/"
+  },
+  "EasyDNS": {
+    "protocol" : "easydns",
+    "server": "api.cp.easydns.com",
+    "uri": "http://www.easydns.com/"
+  },
+  "Enom": {
+    "protocol" : "enom",
+    "server": "",
+    "uri": "https://www.enom.com/"
+  },
+  "Freedns": {
+    "protocol" : "freedns",
+    "server": "freedns.afraid.org",
+    "uri": "http://freedns.afraid.org/"
+  },
+  "Freemyip": {
+    "protocol" : "freemyip",
+    "server": "freemyip.com",
+    "uri": "https://freemyip.com/"
+  },
+  "Gandi": {
+    "protocol" : "gandi",
+    "server": "api.gandi.net",
+    "uri": "https://gandi.net/"
+  },
+  "Google": {
+    "protocol" : "googledomains",
+    "server": "domains.google.com",
+    "uri": "https://www.google.com/domains/"
+  },
+  "Loopia": {
+    "protocol" : "dyndns2",
+    "server": "",
+    "uri": "https://www.loopia.se/"
+  },
+  "Mythic Beasts": {
+    "protocol" : "mythicdyn",
+    "server": "api.mythic-beasts.com",
+    "uri": "https://www.mythic-beasts.com/"
+  },
+  "Namecheap": {
+    "protocol" : "namecheap",
+    "server": "dynamicdns.park-your-domain.com",
+    "uri": "https://www.namecheap.com/"
+  },
+  "NearlyFreeSpeech": {
+    "protocol" : "nfsn",
+    "server": "api.nearlyfreespeech.net",
+    "uri": "https://www.nearlyfreespeech.net/services/dns/"
+  },
+  "Njal.la": {
+    "protocol" : "njalla",
+    "server": "",
+    "uri": "https://njal.la/docs/ddns/"
+  },
+  "Noip": {
+    "protocol" : "noip",
+    "server": "dynupdate.no-ip.com",
+    "uri": "http://www.noip.com/"
+  },
+  "OVH": {
+    "protocol" : "ovh",
+    "server": "www.ovh.com",
+    "uri": "https://www.ovh.com/"
+  },
+  "Porkbun": {
+    "protocol" : "porkbun",
+    "server": "",
+    "uri": "https://porkbun.com/"
+  },
+  "regfish.de": {
+    "protocol" : "regfishde",
+    "server": "dyndns.regfish.de",
+    "uri": "https://www.regfish.de/domains/dyndns/"
+  },
+  "Sitelutions": {
+    "protocol" : "sitelutions",
+    "server": "www.sitelutions.com",
+    "uri": "http://www.sitelutions.com"
+  },
+  "woima.fi": {
+    "protocol" : "woima",
+    "server": "dyn.woima.fi",
+    "uri": "https://woima.fi/"
+  },
+  "Yandex": {
+    "protocol" : "yandex",
+    "server": "pddimp.yandex.ru",
+    "uri": "https://domain.yandex.com/"
+  },
+  "Zoneedit": {
+    "protocol" : "zoneedit1",
+    "server": "dynamic.zoneedit.com",
+    "uri": "http://www.zoneedit.com"
+  }
+}
+
