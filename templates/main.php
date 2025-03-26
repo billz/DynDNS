@@ -47,7 +47,7 @@
       <div class="card-body">
         <?php $status->showMessages(); ?>
         <form role="form" action="<?php echo $__template_data['action']; ?>" method="POST">
-          <?php echo CSRFTokenFieldTag() ?>
+          <?php echo \RaspAP\Tokens\CSRF::hiddenField(); ?>
 
           <!-- Nav tabs -->
           <ul class="nav nav-tabs">
