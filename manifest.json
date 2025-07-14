@@ -1,5 +1,5 @@
 {
-  "name": "Dynamic DNS",
+  "name": "DynDNS",
   "version": "v1.0.1",
   "description": "A Dynamic DNS service add-on for RaspAP",
   "author": "Bill Z",
